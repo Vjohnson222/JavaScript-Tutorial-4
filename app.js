@@ -4,28 +4,28 @@ const reviews = [
     name: "The Goal",
     job: "My Loft",
     img: "i.jpggggg",
-    text: "I want to live in one of the most amazing lofts ever. The Loft is spacious and has the largest floor to ceiling window. The walls are brick and I'm not sure about the floor. This is simply because I do prefer carpet but I don't want to take away from that industrial feeling. It's clean, warm and inviting for friends and family",
+    text: "I want to live in one of the most amazing lofts ever. The Loft is spacious and has the largest floor to ceiling window. The walls are brick and I'm not sure about the floor. This is simply because I do prefer carpet - but I don't want to take away from that industrial feeling. It's clean, warm and inviting for friends and family",
   },
   {
     id: 2,
     name: "Income",
     job: "Get a great paying job",
     img: "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883409/person-2_np9x5l.jpg",
-    text: "This is key. Just Do it! And Get it done Quickly. As soon as you get to this step completed, trust that the rest become easier. Have Faith and trust in your ability to be hired and to be compensated well. Put this to a timeline today and keep it moving. Also make this a lifelong habit – Whether you're being hired or running your own business"
+    text: "This is key. Just Do it! And Get it done Quickly. As soon as you get this step completed, trust that the rest will become easier. Have Faith and trust in your ability to be hired and to be compensated well!. Put this to a timeline today and keep it moving. Also make this a lifelong habit. Whether you're being hired or running your own business"
     },
   {
     id: 3,
     name: "Credit",
     job: "Follow a structured path",
     img: "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg",
-    text: "What does it take to build credit. What is good credit. How long will it take. What do I need to do. What programs exist. What does this look like if it were placed on a calendar. All of this and more. Become obsessed with achieving this and watch it happen. Answer the above questions and make a POA on a calendar that you’ll commit to. "
+    text: "What does it take to build credit. What is good credit. How long will it take. What do I need to do. What programs exist. What does this look like if it were placed on a calendar. All of this and more. Become obsessed with achieving this and watch it happen. Answer the above questions and make a POA on a calendar that you'll commit to. "
     },
     {
     id: 4,
     name: "FAITH",
     job: "Faith. You simply have to have Blind Faith",
     img: "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
-    text: "FAITH. Now faith is the substance of things hoped for, the evidence of things not seen. For by it the elders obtained a good report. Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear. Have Faith and know that the desires are way beyond your own!  "
+    text: "FAITH. Now faith is the substance of things hoped for, the evidence of things not seen. For by it the elders obtained a good report. Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear. Have Faith and know that the desires are way beyond your own!😊"
     },
 ];
 const img = document.getElementById("person-img");
